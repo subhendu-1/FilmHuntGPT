@@ -2,7 +2,11 @@
 
 # Create React App
 # Config Tailwinde CSS
+# Routing of login and browser page
 # Header
+# Sing In 
+# Sign Up page using Hooked 
+# Form validation using "regex" Regular Expretion,useRef,useState
 
 
 # Features
